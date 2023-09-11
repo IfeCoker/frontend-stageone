@@ -1,0 +1,24 @@
+body{
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 10px;
+}
+
+[data-testid="slackUserName"] {
+    font-size: 25px;
+}
+[data-testid="slackDisplayImage"] {
+    width: 25%;
+    border-radius: 5px;
+    display: inline-block;
+}
+[data-testid="githubURL"] {
+    text-decoration: none;
+}
+[data-testid="githubURL"]:hover{
+    color: black;
+}
+[data-testid="currentDayOfTheWeek"] {
+    text-align: center;
+    color: aqua;
+}
