@@ -18,7 +18,3 @@ body{
 [data-testid="githubURL"]:hover{
     color: black;
 }
-[data-testid="currentDayOfTheWeek"] {
-    text-align: center;
-    color: aqua;
-}
